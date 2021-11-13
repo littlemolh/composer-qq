@@ -15,12 +15,6 @@
             "email": "25362583@qq.com"
         }
     ],
-    "require": {
-        "php": "^7.0"
-    },
-    "require-dev": {
-        "topthink/framework": "~5.0.0"
-    },
     "autoload": {
         "psr-4": {
             "littlemo\\qq\\": "src"
