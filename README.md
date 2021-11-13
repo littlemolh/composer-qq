@@ -5,7 +5,7 @@ littlemo QQ互联
 [![Total Downloads](https://poser.pugx.org/littlemo/qq/downloads)](https://packagist.org/packages/littlemo/qq)
 [![Latest Stable Version](https://poser.pugx.org/littlemo/qq/v/stable)](https://packagist.org/packages/littlemo/qq)
 [![Latest Unstable Version](https://poser.pugx.org/littlemo/qq/v/unstable)](https://packagist.org/packages/littlemo/qq)
-[![PHP Version](https://img.shields.io/badge/php-%3E%3D7.0-8892BF.svg)](http://www.php.net/)
+[![PHP Version](https://img.shields.io/badge/php-%3E%3D7.4-8892BF.svg)](http://www.php.net/)
 [![License](https://poser.pugx.org/littlemo/qq/license)](https://packagist.org/packages/littlemo/qq)
 
 ### 介绍
@@ -17,8 +17,7 @@ composer.json
 ```json
 {
     "require": {
-        "php": "^7.4",
-        "littlemo/qq": "*"
+        "littlemo/qq": "~1.0.0"
     }
 }
 ```
