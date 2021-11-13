@@ -1,12 +1,10 @@
 {
-    "name": "littlemo/qqq",
+    "name": "littlemo/qq",
     "description": "the littlemo qq tools",
     "type": "project",
     "keywords": [
         "thinkphp",
-        "tool",
-        "qq",
-        "littlemo"
+        "tool"
     ],
     "homepage": "https://ggui.cn/",
     "license": "Apache-2.0",
