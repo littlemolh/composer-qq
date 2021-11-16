@@ -20,9 +20,7 @@
         "php": "^7.1",
         "littlemo/utils": "~1.0.0"
     },
-    "require-dev": {
-        "topthink/framework": "~5.0.0"
-    },
+    "require-dev": {},
     "autoload": {
         "psr-4": {
             "littlemo\\qq\\": "src"
